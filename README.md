@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Turex69
-- 👀 I’m interested in data science 
-- 🌱 I’m currently studying a master's degree in machine learning/deep learning
+- 👀 I’m interested in machine learning/deep learning
+- 🌱 I’m currently studying a master's degree in data science
 - 📫 How to reach me salvoromano23@gmail.com
 
 <!---
